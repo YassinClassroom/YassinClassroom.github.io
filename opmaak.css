@@ -1,0 +1,25 @@
+
+* {
+  margin: 2px;
+  padding: 3px;
+}
+
+body {
+  font-family: Verdana, Geneva;
+  color: maroon;
+  background-color: #FFDDFF;
+}
+
+h1, h2 {
+  color: #FFDDFF;
+  background-color: maroon;
+  text-align : center;
+  font-family: Georgia, "Comic Sans MS";
+  font-style: italic;
+}
+
+
+ body  {
+    background-image: url("https://www.vvstrijen.nl/wp-content/uploads/2016/06/grass-background-clipart-9.jpg");
+    background-color: green;
+}
